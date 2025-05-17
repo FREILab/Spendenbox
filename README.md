@@ -1,0 +1,2 @@
+# Spendenbox
+Spendenboxen und Kassen
